@@ -1,0 +1,39 @@
+body{
+    background: #11c46a;
+    margin:-1% 0 0 0;
+}
+.nav{
+    background: #3e7474;
+    position: fixed;
+    width: 100%;
+
+
+
+}
+.nav ul {
+    list-style-type: none;
+    height: 50px;
+}
+.nav ul li{
+    float: right;
+    margin: 20% 20% 20 20;
+    padding: 0% 10%;
+
+}
+.nav ul li a {
+    display:block;
+    text-decoration: none;
+    color: aliceblue;
+    padding: 0.7rem 0.7rem;
+}
+.nav ul li a:hover{
+    background-color: #18ad63;
+}
+.contact{
+    padding: 5% 0 0 0;
+     
+}
+
+embed{
+    margin-left: 40%
+}
